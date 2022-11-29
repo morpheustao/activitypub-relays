@@ -50,6 +50,7 @@ https://relay.breakblocks.social/inbox | Only for instances primarily based arou
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
+https://relay.foxyhole.io/inbox | Italian language only | Contact @redhunt07@www.foxyhole.io
 ```
 
 ## ❔ relays that maybe? work
